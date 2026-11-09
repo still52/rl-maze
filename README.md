@@ -1,2 +1,7 @@
 # rl-maze
-Q-learning vs Value Iteration in a gridworld maze: research project and simulator. Owner still52.
+
+Research project: how well does Q-learning find the shortest path in a maze
+compared with the exact solution (Value Iteration)? Includes a small simulator.
+
+Status: work in progress.
+
